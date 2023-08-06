@@ -1,17 +1,6 @@
 ## 教育心灵的游戏
 >*永无停息地探索世界*
-### 职业
-- 程序语言
-  - C++
-  - Python
-  - Java
-- 技术
-### 科学
-- 物理
-### 语言
-- 数学
-- 哲学
-  - 英语
-  - 法语
-  - 德语
-  - 语言学
+### 3D Art
+### General Purpose Humanoid
+### Genetic Programming
+### Terraforming
